@@ -1,0 +1,14 @@
+name: ancestry_freak
+channels:
+  - defaults
+dependencies:
+  - python=3.10.11
+  - pandas=1.5.3
+  - pathlib=1.0.1
+  - requests=2.29.0
+  - numpy=1.24.3
+  - jupyter=1.0.0
+  - matplotlib=3.7.1
+  - beautifulsoup4=4.12.2
+  - pip=23.0.1
+prefix: C:\Users\bballdave025\miniconda3\envs\ancestry_freak
