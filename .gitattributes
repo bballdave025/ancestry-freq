@@ -1,0 +1,51 @@
+#@brief    A .gitattributes file for a repo with Jupyter Notebooks in it.
+#@file     .gitattributes
+#@author   David BLACK  GH: @bballdave025
+#@since    2023-05-29
+#
+#  Mostly here to preserve *NIX-style line endings, which are very important
+#+ for certain data and text files in the Bourne Again SHell (bash) files, 
+#+ ... The python files don't care.
+#
+#  Set the default behavior, in case people don't have `core.autocrlf` set.
+#+ I don't know how to make this match core.autocrlf = input
+#+ The closest I can find is
+#+@ref : https://stackoverflow.com/a/46592252/6505499
+#+@archived-ref = "https://web.archive.org/web/20200527203643/" + \
+#+                "https://stackoverflow.com/questions/46590142/" + \
+#+                "what-is-the-differrence-between-text-auto-and-" + \
+#+                "text-eol-lf-in-gitattribu/46592252#46592252"
+#
+#  Again, setting the default behavior, in case people don't have
+#+ `core.autocrlf` set.
+* text eol=lf
+* text=auto
+
+## Specific files that ABSOLUTELY need to be treated as text and have
+#+ *NIX-style endings. (Note we have no `*.ext text`, because we do
+#+ not want any files normalized and converted to native line endings
+#+ on checkout.) We also hate CRLF endings, unless someone has built
+#+ on VS.
+#+ The LF line endings should always be there on checkout.
+*.ipynb          text eol=lf
+
+#  Probably found automatically, but let's make sure they get set
+*.py             text eol=lf
+*.md             text eol=lf
+LICENSE          text eol=lf
+*.yml            text eol=lf
+.gitignore       text eol=lf
+.gitattributes   text eol=lf
+
+#  Denote all files that aren't binary, but which we don't want normalized
+#*.zip           -text
+#*.pdf           -text
+
+#image files (none yet in the repo) 
+#*.png
+#*.jpg
+#audio files (none yet in the repo)
+#*.wav
+#*.mp3
+#video files (none yet in the repo)
+#*.mp4
