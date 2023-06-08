@@ -1,0 +1,33 @@
+Work Experience 2
+
+Job Title: Speech Science and Machine Learning (AI Labs) Team Member
+
+Company: CaptionCall / Sorenson Communications
+
+Location: Salt Lake City, UT
+
+From: 05/2018
+To:   03/2023
+
+CaptionCall is a provider of captioning services on special telephones available to hard-of-hearing individuals through the Americans with Disabilities Act. They are subcontracted by the FCC, who administer the ADA program for the deaf and hard-of-hearing. CaptionCall is an outgrowth of Sorenson Communications, who provide video-relay services for the deaf through American Sign Language. 
+
+Responsibilities of my role can be described as follows.
+
+- Perform literature review and contribute to decisions about research priorities.
+- Build a variety of tools for automated speech recognition, natural language processing, metrics for performance evaluation, models underlying speech recognition - including machine-learning models and physical models, and other subjects as the need arises.
+- Participate in the creation of Intellectual Property, including patents.
+- Find, create, and curate datasets. Take the time to become familiar with the datasets and clean them up as needed so they can be used by other projects.
+- Write proof-of-concept code based on your research, which will be either passed on to engineering or be developed by the research team in conjunction with engineering. 
+- Use and create machine-learning, speech-to-text, data manipulation, and other types of tools, workbenches, software, packages, and native scripting tools on Linux with a view to use the results on mostly Windows machines used by human transcribers.
+- Write scoring software that allows consistent and unambiguous representation of different, equivalent transcriptions that will be scored fairly. This involves a normalization of the transcribers' output, whether they be human or machine.
+- Create an iterative break-testing set of text transcriptions - regression testing - for any text normalization.
+- Understand issues with encoding and decoding of text and audio files that could prevent optimal performance and analysis. 
+- Leverage the strengths of both human and machine transcribers in real time to provide increased accuracy.
+- Provide quantitative measurement of processes created to present to the research team, senior management, shareholders, government and other organizations who advocate for the hard-of-hearing.
+- Determine which groups, including protected groups, are better or worse served by human transcription, machine transcription, or combinations of both. Create a dataset of phone audio for a variety of populations who might be worse served by any of the three transcription strategies. Make sure we have controlled for extraneous variables by using Principal Component Analysis. Handle issues of legal consent from and protection of these individuals.
+- Create call-recording software with the help of a freelancer to gather data for various needs.
+- Develop a robust method of silence detection and removal, then of splicing the mostly-spoken sections into audio files with a specific time length. Administer these audios to different transcribers and analyze the results.
+- Broaden the marketable products and services available with machine learning methods and models that relate to speech and language with a special focus on serving underrepresented groups such as the Deaf and Hard-of-Hearing communities.
+- Use versioning control, especially git, to work in an Agile software-development environment.
+
+Tools used included: Python; Linux; bash; git; scikit-learn; NumPy; SciPy; matplotlib; Pillow (PIL); Pandas; NIST's sclite; kaldi; C; C++; make; CMake; Perl; regular expressions (regex); Azure DevOps; Azure Repos; Twilio; Amazon Elastic Beanstalk; AWS DynamoDB (NoSQL); pyAudioAnalysis; beautifulsoup4; ffmpeg; vox; Linux tools - sed, awk, grep, find, sort, dos2unix, vim, etc.; Python setuptools;

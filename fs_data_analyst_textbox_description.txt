@@ -1,0 +1,40 @@
+Work Experience 4
+
+Job Title: Data Analyst - Contractor
+
+Company: Family Search International
+
+Location: Salt Lake City, UT
+
+From: 07/2016
+To:   07/2017
+
+FamilySearch is a non-profit organization that provides research and document services in family history. They provide research assistance online and in-person, obtain historical documents for preservation and/or digitization then allow access to many of them, and work to make an ever-increasing documents easily searchable and accessible.
+
+Responsibilities of my role and qualifications for it can be described as follows.
+
+- The primary motivation for the creation of the job was the preparation of data truth and test sets.
+- More specifically, the job was to work with a records and data team to provide the Advanced Technology Research team with any data, documents, annotation, analysis, summaries, and any other support they needed as projects went on.
+- Enthusiasm about mining, manipulating, and annotating data from multiple languages.
+- Working knowledge and competence in several non-English languages as well as of languages and language patterns.
+- Ability to grasp new computational and technical topics as well as self-sufficiency to program in several languages - Java, Perl, and C++, especially - in order to manipulate data.
+- Ability to work both with Windows systems as well as Cygwin or Linux.
+- Accomplish tasks as an individual or as a team member under time constraints. Brainstorm and identify best solutions in several teams.
+- Attention to detail accompanied by patience in teaching technical processes to individuals with varying degrees of technical knowledge, including many with little technical knowledge.
+- Data manipulation with Linux (bash and other shell) tools as well as higher-level programming languages.
+- Provide technical tools, programs, and informed discussion to the research team and volunteer annotators for materials needed to tune machine learning for tasks including 1) zone articles and fields - analyze layouts and text continuity, detect to which of a variety of groups a segmented object belongs 2) index records, 3) transcribe printed sources through Optical Character Recognition, 4) transcribe handwritten source documents through building new Deep Learning models.
+- Identify documents as well as types of documents that will allow the expansion of these processes to work on multiple languages.
+- Be flexible and organized, since daily activities, including those listed below, vary depend on the latest data needs of the research team.
+     - Write quick applications that can, among other things
+          - Aid in data review and selection
+          - Manipulate catalog source lists in CSV and spreadsheet form to record prioritized microfilm or digital image selection list.
+          - Analyze data that volunteers have prepared as part of the data preparation process, including deciding metrics for performance and progress tracking
+- Perform some of the non-programming work of the data team and its volunteers, including: tagging, zoning, line segmenting, etc. as a way of vetting the quality of work done as well as to help complete part of the needed annotations.
+- Locate document images that are potentially pathological for the algorithm, that is, documents with objects in them that could be confused for writing, layouts and certain annotations in the original document that could seem ambiguous to the model while they wouldn't be to a knowledgeable human transcriber, and other things that could confuse the algorithm and/or cause it to struggle.
+- Handle the decoding of text files, which can potentially be sent from different regions, older computer software, or those unacquainted with standard encoding of files. Convert all text-file transcriptions to the utf-8 encoding of Unicode.
+- Evaluate the text-recognition capabilities of third parties whose technology could potentially give higher accuracy or give a new capability or a capability in a language we have not yet worked on. These could be in other programming languages, in which case an interface should be created or used. Decide on metrics to use for the scoring of such third-party programs.
+- Analyze datasets, whether internal that might be part of new indexing projects or those which we might want to acquire, to analyze factors contributing to the decision of whether and how to use them. Factors could include technical details, financial and legal details of the datasets, current or past political factors that could make data sensitive, linguistic and naming details, etc.
+- As requested, do visualizations of the data. This could range from viewing the Deep Learning algorithm's output as it would be seen on the original documents to plots of needs and progress.
+- Help create guidelines which are concise but cover sufficient detail that the volunteers can use them as a guide in image segmentation and transcription.
+
+Tools used included: Java; Perl; C++; Linux; Cygwin; bash; Python; Pillow (PIL); Unicode and utf-8; Windows CMD Scripting; Java Native Interface (JNI); ; bash tools - sed, awk, grep, tr, find, sort, uniq, mount, nohup, top, ps, shuf, ln, diff, comm, xargs, wget, curl, dig, tar, ssh, sftp, du, df, bc, cpio, cron, cut, paste, script, tmux, getopts, ifconfig, date, uname, id, file, man, stat, strace, xxd, hexdump, vim, lynx, feh, permissions and access, pipes and redirects, etc.; Linguistics; Paleography; History; catalog use;

@@ -1,0 +1,22 @@
+Work Experience 1
+
+Job Title: Freelance Software Developer - Metadata
+
+Company: Kindex
+
+Location: Kaysville, UT
+
+From: 04/2023
+To:   Present
+
+Kindex is a start-up, software-as-a-service company which provides resources for creating personal, family, or organizational archives. These resources are usually broken into three parts. The gathering part involves: 1) providing help to gather papers, pictures, audio recordings, videos, etc.; 2) high quality digitization of these records; and 3) creating one online, digital gathering place. The indexing part involves: making the records searchable using machine- and human-based tagging and transcription. The sharing part involves: 1) making certain parts of any content searchable; 2) allowing people to contact the archive owner; and 3) enabling the owner to have their content be either public-facing or private-facing.  
+
+Responsibilities of my role can be described as follows.
+
+- Understand and implement metadata for a variety of use cases, especially archive, museum, and family historian. 
+- Support cataloging metadata for image, document, audio, and video files.
+- Implement functionality into a web app serving PHP. This including creating and using sandbox environments and on-machine servers.
+- Understand the user functionality and machine-learning algorithms used to add value to records, so as to be able to support them.
+
+
+Tools used included: Oracle VirtualBox; Ubuntu; phpadmin; php5.6 and php7; phalcon; VirtualServer; various metadata-extraction software; various metadata specs and schemas; Linux/bash; hosts files; git; Cloudflare; AWS RDS; Azure Storage; mariadb (MySQL); apache2;

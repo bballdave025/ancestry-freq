@@ -1,0 +1,199 @@
+Agile 
+Agile Framework
+Agile Methodology 
+Agile Principles
+American English
+American Sign Language (ASL)
+Apache Subversion (SVN)
+Apple Mac OS
+Applications Programming
+Applied Linguistics
+Applied Research 
+AWS
+AWS DynamoDB
+Baby Sign Language
+Bash (Programming Language)
+BASIC Programming Language
+Big Data 
+Bourne Shell Scripting
+C (Programming Language)
+C++ Programming Language
+College Teaching 
+Communication
+Computer Programming
+Computer Science 
+Computer Vision
+Creative Concept Design
+Creative Design 
+Creative Strategies
+Creativity 
+Data Acquisition
+Data Analysis 
+Data Annotation
+Data Collection Management
+Data Curation 
+Data Extraction
+Data Format 
+Data Insights
+Data Management 
+Data Mining
+Data Mining Software
+Data Modeling 
+Data Modeling Tools
+Data Organization 
+Data Processing
+Data Representation 
+Data Retrieval
+Data Science 
+Datasets
+Data Standards 
+Data Types
+Data Visualization
+Data Visualization Tools
+Development 
+English Grammar
+English Language 
+English Teaching
+English to French Translation
+English to Russian Translations
+English to Spanish Translations
+Experimental Research
+Family History 
+Foreign Languages
+French Language
+French to English Translations
+French Translation
+French Translations
+Functional Programming Languages
+Genealogy 
+Genealogy Research
+Germanic Languages
+German Language 
+Git
+GitHub 
+Greek Language
+Handwriting 
+Hebrew Language
+Hyper Text Markup Language (HTML)
+Image Classification
+Image Segmentation
+Information Extraction
+Information Visualization
+Interpersonal Communication
+Interpersonal Interactions
+Interpersonal Sensitivity 
+Java
+JavaFX 
+Java Native Interface (JNI)
+Javascript Programming Language
+Java Software Development
+Java Virtual Machine (JVM) 
+Keras
+Laboratory Research
+Language Identification 
+Languages
+Language Theory 
+Latin Language
+Leadership 
+Linguistics 
+Linux
+Linux Bash 
+Linux Bash Scripting
+Linux Bash Shell 
+Linux Development
+Linux Environments
+Linux Programming
+Linux Shell Scripting
+Machine Learning
+Machine Learning Algorithms
+Markup Languages
+Mathematical Analysis
+Mathematical Modeling
+Mathematics 
+MATLAB
+MATLAB Language
+MATLAB Programming
+Microsoft Azure 
+Microsoft Office
+Microsoft Office Macros
+Microsoft Office Programming
+Microsoft PowerShell
+Microsoft Remote Desktop Services (RDS)
+Microsoft Windows
+Microsoft Windows Office
+Microsoft Word 
+Modern Languages
+Mod Jk 
+Morphometric Analysis
+Natural Language Processing (NLP)
+Natural Language Processing Tools
+Numerical Analysis
+Numerical Methods
+Numerical Modeling
+Numerical Simulations
+Object-Oriented Languages
+Object-Oriented Programming (OOP)
+Object-Oriented Programming (OOP) Concepts
+Object-Oriented Programming Languages
+Object Oriented Programming Techniques
+Object-Oriented Software Development
+OpenCV 
+Oracle VM VirtualBox
+Palaeography
+Pandas Python Library
+Parametric Modeling
+Perl Programming
+PHP (Programming Language)
+PHP Scripting 
+PostgreSQL
+Presentations 
+Procedural Coding
+Programming Languages
+Python (Programming Language)
+Python Datetime Module
+Python Matplotlib 
+Python Numpy
+Research Analysis 
+Researching
+Research Labs 
+Root Cern
+Russian History 
+Russian Language
+Russian to English
+Russian Translations
+Scientific Data Management
+Scientific Research 
+SciPy
+Secure Shell (SSH) 
+Selenium
+Selenium Automation
+Selenium Webdriver 
+Shape Analysis
+Shell Programming 
+Shell Scripting
+Software Development
+Software Documentation
+Spanish Language
+Spanish to English Translations
+Spanish Translations
+Speak Foreign Languages 
+Teaching
+Technical Content Writing
+Technical Writing 
+Tensorflow
+Text Annotation 
+Training
+Unix 
+Unix Shell Scripting
+VB Scripting 
+Virtual Machines (VM)
+Web Scraping 
+Wiki Documentation
+Windows Command Line
+Windows Command Line Interface
+Wolfram Alpha
+Wolfram Mathematica
+Writing in French
+Writing Specifications 
+XML Data
+XML Schema
